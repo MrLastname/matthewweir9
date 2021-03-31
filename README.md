@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @matthewweir9
+- 👀 I’m interested in Meccatronics!
+- 🌱 I’m currently learning Game Development
